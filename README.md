@@ -2,17 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Integrantes:
+Angel Algas Montero 401
+Georvis David Lopez Soria 401
+Ernesto Gonzalez Alvarez 401
+Nelson Naun Flores 401
+Yaliana Viviana Hernandez Mendosa 401
+Beatriz Lopez Elias
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
